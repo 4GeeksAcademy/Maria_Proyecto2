@@ -1,7 +1,7 @@
 body {
     background-color: black;
 }
-.container-xl {
+.container-fluid{
     background-color: white; 
     width: 1220px;
     height: auto;
